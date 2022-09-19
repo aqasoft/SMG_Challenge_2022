@@ -1,0 +1,1 @@
+# SMG_Challenge_2022
