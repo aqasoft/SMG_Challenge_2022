@@ -35,7 +35,7 @@ part of Batch 2.
 dataset that may be used as a contact database having the following 
 contactability indexes:
 
-* For emails, the contactability index is built as `domain_trust @ user_trust`.
+* For emails, the contactability index is built as `user_trust @ domain_trust`.
 * For phones, the contactability index is a `trust_number`.
 
 5. In Batch 5 the collected information is put into plot graphs that are 
